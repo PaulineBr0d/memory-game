@@ -73,7 +73,7 @@ initgame();
             card.classList.add("flipped");
             flippedCards.push(card);
 
-            if(flippegit dCards.length === 2) {
+            if(flippedCards.length === 2) {
                 checkMatch();
         }
      }  
